@@ -2,9 +2,9 @@
 <browserconfig> 
      <msapplication> 
           <tile> 
-               <square310x310logo src="/favicon/ms-icon-310x310.png"/> 
-               <square150x150logo src="/favicon/ms-icon-150x150.png"/> 
-               <square70x70logo src="/favicon/ms-icon-70x70.png"/> 
+               <square310x310logo src="http://image.terbaik.live/favicon/ms-icon-310x310.png"/> 
+               <square150x150logo src="http://image.terbaik.live/favicon/favicon/ms-icon-150x150.png"/> 
+               <square70x70logo src="http://image.terbaik.live/favicon/favicon/ms-icon-70x70.png"/> 
                <TileColor>#ffffff</TileColor> 
           </tile> 
      </msapplication>
