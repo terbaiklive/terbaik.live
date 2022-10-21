@@ -1,0 +1,3 @@
+User-agent: * 
+Allow: / 
+Sitemap: https://terbaik.live/sitemap.xml 
